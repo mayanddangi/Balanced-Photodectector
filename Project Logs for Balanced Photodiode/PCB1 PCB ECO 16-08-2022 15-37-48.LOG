@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=IC3-2
+Removed Pin From Net: NetName=+5V Pin=IC3-3
+Removed Member From Class: ClassName=Sheet1 Member=IC3
+Added Component: Designator=C8(C025-030X050)
+Add component (AddParameter): Name = "DeviceName"; Value = "025-030X050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-US"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-US"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C025-030X050)
+Add component (AddParameter): Name = "DeviceName"; Value = "025-030X050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-US"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-US"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=-5V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+5V Pin=IC2-8
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Member To Class: ClassName=Sheet1 Member=Component C8 C-US025-030X050
+Added Member To Class: ClassName=Sheet1 Member=Component C9 C-US025-030X050

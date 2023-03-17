@@ -1,0 +1,8 @@
+Added Component: Designator=T?(TO5)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2N2102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "POPULARITY"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "NPN"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component T? 2N2102

@@ -1,0 +1,28 @@
+Added Component: Designator=J3(1-1337543-0)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1-1337543-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1-1337543-0/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1337543&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1-1337543-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1-1337543-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1-1337543-0?qs=C39VGJgkyqP7s5Z2V1r6VA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J4(1-1337543-0)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1-1337543-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1-1337543-0/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1337543&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1-1337543-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1-1337543-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1-1337543-0?qs=C39VGJgkyqP7s5Z2V1r6VA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=I_diff Pin=J3-1
+Added Pin To Net: NetName=I_diff Pin=J4-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R1-2
+Added Pin To Net: NetName=NetJ3_2 Pin=T1-1
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R3-1
+Added Pin To Net: NetName=NetJ4_1 Pin=T2-3
+Added Net: Name=NetJ4_1
+Added Member To Class: ClassName=Sheet1 Member=Component J3 1-1337543-0
+Added Member To Class: ClassName=Sheet1 Member=Component J4 1-1337543-0

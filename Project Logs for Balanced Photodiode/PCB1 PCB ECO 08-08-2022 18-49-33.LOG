@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=IC2-1
+Removed Pin From Net: NetName=9V Pin=IC2-2
+Removed Pin From Net: NetName=-5V Pin=IC2-3
+Change Component Footprint: Designator=IC2 Old Footprint=TO255P460X1020X2030-3P New Footprint=DIP762W56P254L950H508Q8N
+Change Component Comment : Designator=IC2 Old Comment=L7905CP New Comment=TC7662ACPA
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "TO255P460X1020X2030-3P"; UniqueID = "\AFNTXNUA" ("\AFNTXNUA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TC7662ACPA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tc7662acpa/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/3/TC7662ACPA.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TC7662ACPA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "579-TC7662ACPA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/TC7662ACPA?qs=3huTxzs8ogqC%2FBEmAt4AWg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C025-030X050)
+Add component (AddParameter): Name = "DeviceName"; Value = "025-030X050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-US"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-US"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC2-3
+Added Pin To Net: NetName=-5V Pin=IC2-5
+Added Pin To Net: NetName=9V Pin=IC2-8
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=IC2-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=IC2-4
+Added Net: Name=NetC7_2
+Added Member To Class: ClassName=Sheet1 Member=Component C7 C-US025-030X050

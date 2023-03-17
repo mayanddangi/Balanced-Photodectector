@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=J2-2
+Removed Pin From Net: NetName=+5V Pin=R1-2
+Removed Pin From Net: NetName=-5V Pin=R3-1
+Removed Pin From Net: NetName=I_diff Pin=T1-1
+Removed Pin From Net: NetName=I_diff Pin=T2-3
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Added Component: Designator=C4(C025-030X050)
+Add component (AddParameter): Name = "DeviceName"; Value = "025-030X050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-US"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-US"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C025-030X050)
+Add component (AddParameter): Name = "DeviceName"; Value = "025-030X050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-US"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-US"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C025-030X050)
+Add component (AddParameter): Name = "DeviceName"; Value = "025-030X050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-US"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-US"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(DIP794W53P254L1016H394Q8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://cds.linear.com/docs/en/datasheet/1028fd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.937mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LT1028ACN8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESA60-630X240)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/Yageo%20LR_MFR_2013.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Axial Lead, Dia 2.4 mm, Body Length 6.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "MFR-25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_2 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=-5V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetC?_2 Pin=IC4-2
+Added Pin To Net: NetName=GND Pin=IC4-3
+Added Pin To Net: NetName=-5V Pin=IC4-4
+Added Pin To Net: NetName=+5V Pin=IC4-7
+Added Pin To Net: NetName=I_diff Pin=R1-1
+Added Pin To Net: NetName=I_diff Pin=R3-2
+Added Pin To Net: NetName=NetC?_2 Pin=R4-1
+Added Pin To Net: NetName=+5V Pin=T1-3
+Added Pin To Net: NetName=-5V Pin=T2-1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC1_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=IC4-6
+Added Pin To Net: NetName=NetC4_2 Pin=J2-2
+Added Pin To Net: NetName=NetC4_2 Pin=R4-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=T1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=T2-3
+Added Net: Name=NetR3_1
+Added Member To Class: ClassName=Sheet1 Member=Component C4 C-US025-030X050
+Added Member To Class: ClassName=Sheet1 Member=Component C5 C-US025-030X050
+Added Member To Class: ClassName=Sheet1 Member=Component C6 C-US025-030X050
+Added Member To Class: ClassName=Sheet1 Member=Component IC4 LT1028ACN8#PBF
+Added Member To Class: ClassName=Sheet1 Member=Component R4 MFR-25FBF52-10K

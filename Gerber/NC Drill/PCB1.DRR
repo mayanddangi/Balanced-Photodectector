@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.PcbDoc   21-09-2022  16:40:21
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T2      29mil (0.733mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T3      30mil (0.76mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T4      32mil (0.813mm)                                           Round             24        PTH        0.00inch (0.00mm)
+T5      33mil (0.85mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T6      38mil (0.97mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T7      81mil (2.06mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T8      103mil (2.625mm)                                          Round             1         PTH        0.00inch (0.00mm)
+T9      118mil (3mm)                                              Round             3         PTH        0.00inch (0.00mm)
+T10     124mil (3.15mm)                                           Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              75
+
+Total Processing Time (hh:mm:ss) : 00:00:00
